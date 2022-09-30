@@ -23,10 +23,10 @@ email: ""
 ---
 I﻿ am a Ph.D. candidate at Sorbonne University, a member of Laboratoire Jacques-Louis Lions.
 
-**Email **: z﻿he.chen_at_sorbonne-universite.fr
+**Email** : z﻿he.chen_at_sorbonne-universite.fr
 
 
-**Adresse postale :**\
+**Adresse postale** :\
 Laboratoire Jacques-Louis Lions\
 Sorbonne Université\
 Boîte courrier 187\

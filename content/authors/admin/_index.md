@@ -9,7 +9,7 @@ organizations:
     url: https://www.ljll.math.upmc.fr/?lang=fr
 education:
   courses:
-    - course: Master 2
+    - course: Master 2 in Mathematics
       institution: Paris Dauphine University
       year: 2022
     - course: BSc in Mathematics

@@ -1,8 +1,12 @@
 ---
 title: CHEN Zhe
 role: "Ph.D. candidate "
-bio: My research interests include kinetic model, fluid dynamics, aerosols.
-interests: []
+avatar_filename: lifephoto.jpg
+bio: ""
+interests:
+  - My research interests include kinetic model
+  - fluid dynamics
+  - aerosols.
 social: []
 organizations:
   - name: Laboratoire Jacques-Louis Lions
@@ -19,12 +23,9 @@ superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Nelson
-email: ""
+email: z﻿he_dot_chen_at_sorbonne-universite_dot_fr
 ---
 I﻿ am a Ph.D. candidate at Sorbonne University, a member of Laboratoire Jacques-Louis Lions.
-
-**Email** : z﻿he.chen_at_sorbonne-universite.fr
-
 
 **Adresse postale** :\
 Laboratoire Jacques-Louis Lions\

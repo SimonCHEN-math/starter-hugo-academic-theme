@@ -23,9 +23,11 @@ superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Nelson
-email: z﻿he_dot_chen_at_sorbonne-universite_dot_fr
+email: ""
 ---
 I﻿ am a Ph.D. candidate at Sorbonne University, a member of Laboratoire Jacques-Louis Lions.
+
+*﻿*E-mail**: z﻿he_dot_chen_at_sorbonne-universite_dot_fr\
 
 **Adresse postale** :\
 Laboratoire Jacques-Louis Lions\

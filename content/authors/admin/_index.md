@@ -27,7 +27,7 @@ email: ""
 ---
 I﻿ am a Ph.D. candidate at Sorbonne University, a member of Laboratoire Jacques-Louis Lions.
 
-*﻿*E-mail**: z﻿he_dot_chen_at_sorbonne-universite_dot_fr\
+**E-mail**: z﻿he_dot_chen_at_sorbonne-universite_dot_fr
 
 **Adresse postale** :\
 Laboratoire Jacques-Louis Lions\

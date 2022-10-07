@@ -4,9 +4,9 @@ role: "Ph.D. candidate "
 avatar_filename: lifephoto.jpg
 bio: ""
 interests:
-  - My research interests include kinetic model
-  - fluid dynamics
-  - aerosols.
+  - Kinetic model
+  - Fluid dynamics
+  - Aerosols.
 social: []
 organizations:
   - name: Laboratoire Jacques-Louis Lions

@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-{{% staticref "/assets/media/master-internship-report-beamer.pdf" "newtab" %}}Download it{{% /staticref %}
+{{% staticref "/assets/media/master-internship-report-beamer.pdf" "newtab" %}}Download t﻿he slides{{% /staticref %}

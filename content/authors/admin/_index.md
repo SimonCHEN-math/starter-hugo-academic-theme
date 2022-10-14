@@ -1,6 +1,6 @@
 ---
 title: CHEN Zhe
-role: "Ph.D. candidate "
+role: Ph.D. student
 avatar_filename: lifephoto.jpg
 bio: ""
 interests:

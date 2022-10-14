@@ -6,11 +6,13 @@ bio: ""
 interests:
   - Kinetic model
   - Fluid dynamics
-  - Aerosols.
+  - Aerosols
 social: []
 organizations:
   - name: Laboratoire Jacques-Louis Lions
     url: https://www.ljll.math.upmc.fr/?lang=fr
+  - url: https://portail.polytechnique.edu/cmls/fr/page-daccueil
+    name: Center of Mathematics Laurent Schwartz
 education:
   courses:
     - course: Master 2 in Mathematics
